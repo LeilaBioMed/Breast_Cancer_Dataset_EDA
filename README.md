@@ -87,5 +87,5 @@ leila.gerayeli@gmail.com
 
 Clone this repository:
 ```bash
-git clone https://github.com/LeilaBioMed/Synthetic_Biomedical_Dataset_EDA.git
+git clone https://github.com/LeilaBioMed/Breast_Cancer_Dataset_EDA.git
 cd biomedical-eda
